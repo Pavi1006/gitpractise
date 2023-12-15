@@ -1,3 +1,3 @@
-### Git and Githubcls
+### Git and Github
 
 ## Pavithra
